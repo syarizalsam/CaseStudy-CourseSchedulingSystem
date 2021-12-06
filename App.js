@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { StyleSheet, Text, View, SafeAreaView, StatusBar, Modal, Alert, Pressable, TextInput, TouchableOpacity, Picker, Button,ScrollView } from "react-native";
 
 {/*  
-**WORK DISTRIBUTION**
+**WORK DISTRIBUTION** 
 
 Syarizal bin Shamsul (1815499)
   -Array map function
